@@ -1,6 +1,12 @@
 # FORMS 明信片
 
-于游园会上售卖
+FORMS明信片为我们在2017年元旦深中游园会上售卖的FORMS主题明信片。设计共有五款，分别为四个FORMS内的经典场景与[FLAGS T-shirt的图案](/merchandises/FLAGS.md)
+
+- 钥匙妹
+- D栋天井
+- 图书馆
+- 文体楼三层
+- [FLAGS](/merchandises/FLAGS.md)
 
 ## 实体效果图
 
@@ -8,4 +14,9 @@ TODO
 
 ## 设计稿
 
-TODO
+![FORMS明信片正面图1](/deliverables/postcard/FORMS_Postcard_front_1.jpg)
+![FORMS明信片正面图2](/deliverables/postcard/FORMS_Postcard_front_2.jpg)
+![FORMS明信片正面图3](/deliverables/postcard/FORMS_Postcard_front_3.jpg)
+![FORMS明信片正面图4](/deliverables/postcard/FORMS_Postcard_front_4.jpg)
+![FORMS明信片正面图5](/deliverables/postcard/FORMS_Postcard_front_5.jpg)
+![FORMS明信片背面图](/deliverables/postcard/FORMS_Postcard_back.jpg)
