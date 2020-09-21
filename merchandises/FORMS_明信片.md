@@ -14,9 +14,9 @@ TODO
 
 ## 设计稿
 
-![FORMS明信片正面图1](/deliverables/postcard/FORMS_Postcard_front_1.jpg)
-![FORMS明信片正面图2](/deliverables/postcard/FORMS_Postcard_front_2.jpg)
-![FORMS明信片正面图3](/deliverables/postcard/FORMS_Postcard_front_3.jpg)
-![FORMS明信片正面图4](/deliverables/postcard/FORMS_Postcard_front_4.jpg)
-![FORMS明信片正面图5](/deliverables/postcard/FORMS_Postcard_front_5.jpg)
-![FORMS明信片背面图](/deliverables/postcard/FORMS_Postcard_back.jpg)
+![FORMS明信片正面图1](/assets/images/FORMS明信片/FORMS_Postcard_front_1.jpg)
+![FORMS明信片正面图2](/assets/images/FORMS明信片/FORMS_Postcard_front_2.jpg)
+![FORMS明信片正面图3](/assets/images/FORMS明信片/FORMS_Postcard_front_3.jpg)
+![FORMS明信片正面图4](/assets/images/FORMS明信片/FORMS_Postcard_front_4.jpg)
+![FORMS明信片正面图5](/assets/images/FORMS明信片/FORMS_Postcard_front_5.jpg)
+![FORMS明信片背面图](/assets/images/FORMS明信片/FORMS_Postcard_back.jpg)
