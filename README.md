@@ -6,9 +6,9 @@
 
 ## 下载
 
-[FORMS-BC v1.0.0](about:blank;)（基于Minecraft 1.9.4的存档）
+[FORMS-BC v1.0](/deliverables/FORMS-BC_v1.0.zip)（基于Minecraft 1.9.4的存档）
 
-[FORMS ResourcePack v1.0](/deliverables/FORMS_ResourcePack_v1.0.zip)（基于[SummerFields](http://summerfields.info/)进行了少量更改）
+[FORMS ResourcePack v1.1](/deliverables/FORMS-ResourcePack_v1.1.zip)（基于[SummerFields](http://summerfields.info/)进行了少量更改）
 
 ## 项目简介
 
@@ -21,6 +21,11 @@ FORMS全称Functional & Original Reconstructive Model of SMS（复刻深圳中�
 - 2014年：A栋办公楼（此时已不存在，根据影像资料重建）、文体楼、人民北路、运动场。项目改名为FORMS。
 - 2015年：1、2、3栋宿舍楼、大小饭堂与其上的宿舍楼、深中街若干建筑物、FORMS历史馆（建于原校史馆内）。项目主体此时已完成。
 - 2016年至2020年：完成校园周边的建筑物与模型边界。
+
+本项目原计划制作两个分支，分别如下：
+
+- FORMS-BC：还原2010年的深圳中学高中部东校区校园。此分支已于2020年9月完工。
+- FORMS-AD：还原2014年后的深圳中学高中部东校区校园，与FORMS-BC相比主要区别原A栋办公楼改建成美楼，原人民北路旁篮球场改建有品楼。然而可惜人手不足，本分支未能开始。
 
 除了Minecraft模型本身与《CUBES》，本项目也衍生出了若干周边：
 
@@ -67,7 +72,7 @@ Ethern
 
 ### 核心建设
 
-[Ethern](https://github.com/ethernoy), Lyndon, [Liby99](https://github.com/Liby99), Enddle, HXQ, 米饭, xxx, Renee, Owen, Alan, A哥, Stary
+[Ethern](https://github.com/ethernoy), [Lyndon](http://lyndonsfolio.wordpress.com), [Liby99](https://github.com/Liby99), [Enddle](https://github.com/Enddle), HXQ, 米饭, xxx, Renee, Owen, Alan, A哥, Stary
 
 ### 服务器支持
 
