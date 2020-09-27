@@ -39,7 +39,7 @@ FORMS全称Functional & Original Reconstructive Model of SMS（复刻深圳中�
 
 ## 如何使用
 
-[FORMS-BC v1.0.0](about:blank;) 为基于Minecraft 1.9.4的存档文件，所以如果是想使用本存档进行游戏，可以直接使用官方的Minecraft客户端进行，流程如下：
+[FORMS-BC v1.0](/deliverables/FORMS-BC_v1.0.zip) 为基于Minecraft 1.9.4的存档文件，所以如果是想使用本存档进行游戏，可以直接使用官方的Minecraft客户端进行，流程如下：
 
 0. 如果你熟悉Minecraft并了解如何下载不同版本的客户端以及如何导入存档，可以跳过教程本部分
 1. 前往[Minecraft官方网站](https://www.minecraft.net)下载Minecraft启动器
