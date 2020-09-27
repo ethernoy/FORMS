@@ -2,6 +2,8 @@
 
 深圳中学高中部东校区校园于2010年的Minecraft模型快照。
 
+![FORMS Title](/assets/images/FORMS_Title.jpg)
+
 ## 下载
 
 [FORMS-BC v1.0](/deliverables/FORMS-BC_v1.0.zip)（基于Minecraft 1.9.4的存档）
