@@ -1,7 +1,5 @@
 # FORMS - 深圳中学Minecraft模型
 
-深圳中学高中部东校区校园于2010年的Minecraft模型快照。
-
 ![FORMS Title](/assets/images/FORMS_Title.jpg)
 
 ## 下载
